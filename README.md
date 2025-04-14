@@ -17,6 +17,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anup050/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anup050/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Anup050/DSA/tree/master/0086-partition-list) |
+| [0206-reverse-linked-list](https://github.com/Anup050/DSA/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anup050/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
