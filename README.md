@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
+| [0932-monotonic-array](https://github.com/Anup050/DSA/tree/master/0932-monotonic-array) |
 ## Math
 |  |
 | ------- |
