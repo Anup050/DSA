@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anup050/DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anup050/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/Anup050/DSA/tree/master/0739-daily-temperatures) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anup050/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Anup050/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anup050/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
