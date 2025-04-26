@@ -15,6 +15,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anup050/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/Anup050/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Anup050/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anup050/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anup050/DSA/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
