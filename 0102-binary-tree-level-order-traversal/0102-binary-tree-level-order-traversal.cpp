@@ -25,7 +25,7 @@ public:
                 q.pop();
                 ans.push_back(temp->val);
                 if(temp->left) q.push(temp->left);
-                if(temp->right)q .push(temp->right);
+                if(temp->right) q.push(temp->right);
             }
             res.push_back(ans);
         }
