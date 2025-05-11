@@ -20,14 +20,24 @@ public:
 
         unordered_set<string> s;
 
-        for(string st : words){
-            s.insert(st);
-            string str = st;
-            reverse(str.begin(),str.end());
-            if(st == str) continue;
-            if(s.find(str) != s.end()){
-                s.erase(str);
+        // for(string st : words){
+        //     s.insert(st);
+        //     string str = st;
+        //     reverse(str.begin(),str.end());
+        //     if(st == str) continue;
+        //     if(s.find(str) != s.end()){
+        //         s.erase(str);
+        //         count++;
+        //     }
+        // }
+
+        for(int i=0; i<n; i++){
+            string rev = words[i];
+            reverse(rev.begin(),rev.end());
+            if(s.find(rev) != s.end()){
                 count++;
+            }else{
+                s.insert(words[i]);
             }
         }
 
