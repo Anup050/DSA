@@ -13,12 +13,14 @@ public:
                 rev = rev*10 + (ele%10);
                 ele /= 10;
             }
-            nums.push_back(rev);
+            // nums.push_back(rev);
+            s.insert(nums[i]);
+            s.insert(rev);
         }
 
-        for(int ele : nums){
-            s.insert(ele);
-        }
+        // for(int ele : nums){
+        //     s.insert(ele);
+        // }
         
         return s.size();
     }
