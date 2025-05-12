@@ -9,10 +9,21 @@ public:
             mp[ele]++;
         }
 
-        for(auto i : mp){
-            s.insert(i.second);
-        }
+        // for(auto i : mp){
+        //     s.insert(i.second);
+        // }
 
-        return mp.size()==s.size();
+        // return mp.size()==s.size();
+
+        for(auto i : mp){
+            int fq = i.second;
+            if(s.find(fq) != s.end()){
+                return false;
+            }else{
+                s.insert(fq);
+            }
+            
+        }
+        return true;
     }
 };
