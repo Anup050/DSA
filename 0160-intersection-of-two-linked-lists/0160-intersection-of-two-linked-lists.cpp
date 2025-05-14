@@ -9,6 +9,21 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+
+
+
+    if (headA == nullptr || headB == nullptr) return nullptr;
+
+        ListNode *f = headA;
+        ListNode *s = headB;
+
+        while (f != s) {
+            f = (f == nullptr) ? headB : f->next;
+            s = (s == nullptr) ? headA : s->next;
+        }
+
+        return f; 
+
         //O(n+m):time, O(n):space
 
         // ListNode *t1 = headA;
@@ -31,42 +46,42 @@ public:
 
         //O(n+m):time, O(1):space
 
-        ListNode *t1 = headA;
-        ListNode *t2 = headB;
+        // ListNode *t1 = headA;
+        // ListNode *t2 = headB;
 
-        int lenA = 0;
-        while(t1){
-            lenA++;
-            t1 = t1->next;
-        }
-        int lenB = 0;
-        while(t2){
-            lenB++;
-            t2 = t2->next;
-        }
+        // int lenA = 0;
+        // while(t1){
+        //     lenA++;
+        //     t1 = t1->next;
+        // }
+        // int lenB = 0;
+        // while(t2){
+        //     lenB++;
+        //     t2 = t2->next;
+        // }
 
-        t1 = headA;
-        t2 = headB;
-        if(lenA > lenB){
-            int diff = lenA - lenB;
-            for(int i=1; i<=diff; i++){
-                t1 = t1->next;
-            }
-            while(t1 != t2){
-                t1 = t1->next;
-                t2 = t2->next;
-            }
-            return t1;
-        }else{
-            int diff = lenB - lenA;
-            for(int i=1; i<=diff; i++){
-                t2 = t2->next;
-            }
-            while(t1 != t2){
-                t1 = t1->next;
-                t2 = t2->next;
-            }
-            return t2;
-        }
+        // t1 = headA;
+        // t2 = headB;
+        // if(lenA > lenB){
+        //     int diff = lenA - lenB;
+        //     for(int i=1; i<=diff; i++){
+        //         t1 = t1->next;
+        //     }
+        //     while(t1 != t2){
+        //         t1 = t1->next;
+        //         t2 = t2->next;
+        //     }
+        //     return t1;
+        // }else{
+        //     int diff = lenB - lenA;
+        //     for(int i=1; i<=diff; i++){
+        //         t2 = t2->next;
+        //     }
+        //     while(t1 != t2){
+        //         t1 = t1->next;
+        //         t2 = t2->next;
+        //     }
+        //     return t2;
+        // }
     }
 };
