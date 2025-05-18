@@ -29,6 +29,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anup050/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Anup050/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Anup050/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Anup050/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anup050/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anup050/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -134,6 +135,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anup050/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Anup050/DSA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -161,4 +163,12 @@
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anup050/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anup050/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
