@@ -1,20 +1,18 @@
 class Solution {
 public:
     string triangleType(vector<int>& nums) {
-        string s = "none";
+        int a = nums[0], b = nums[1], c = nums[2];
 
-        if(nums[0] == nums[1] && nums[1] == nums[2]){
-            s = "equilateral";
-        }else if(nums[0] != nums[1] && nums[0] !=nums[2] && nums[1] != nums[2]){
-            if(((nums[0]+nums[1])>nums[2]) && ((nums[1]+nums[2])>nums[0]) && ((nums[0]+nums[2])>nums[1])){
-                s = "scalene";
-            }
-        }else{
-            if(((nums[0]+nums[1])>nums[2]) && ((nums[1]+nums[2])>nums[0]) && ((nums[0]+nums[2])>nums[1])){
-                s = "isosceles";
-            }
+        if ((a + b <= c) || (a + c <= b) || (b + c <= a)) {
+            return "none";
         }
 
-        return s;
+        if (a == b && b == c) {
+            return "equilateral";
+        } else if (a == b || b == c || a == c) {
+            return "isosceles";
+        } else {
+            return "scalene";
+        }
     }
 };
