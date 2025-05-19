@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        // Dummy nodes to start two lists
+
         ListNode* l1 = new ListNode(-1);
         ListNode* l2 = new ListNode(-1);
 
@@ -21,7 +21,7 @@ public:
 
         while (temp != nullptr) {
             if (temp->val < x) {
-                t1->next =  temp;  // Link the node directly
+                t1->next =  temp;
                 t1 = t1->next;
             } else {
                 t2->next = temp;
@@ -30,8 +30,8 @@ public:
             temp = temp->next;
         }
 
-        t2->next = nullptr; // Important to terminate the second list
-        t1->next = l2->next; // Combine both lists
+        t2->next = nullptr;
+        t1->next = l2->next;
         return l1->next;
     }
 };
