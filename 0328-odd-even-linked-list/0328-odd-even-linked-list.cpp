@@ -11,32 +11,48 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        ListNode* l1 = new ListNode(-1);
-        ListNode* l2 = new ListNode(-1);
+        // ListNode* l1 = new ListNode(-1);
+        // ListNode* l2 = new ListNode(-1);
 
-        ListNode* e  = l1;
-        ListNode* o  = l2;
-        ListNode* temp = head;
-        int count = 0;
+        // ListNode* e  = l1;
+        // ListNode* o  = l2;
+        // ListNode* temp = head;
+        // int count = 0;
 
-        while(temp){
-            count++;
-            temp = temp->next;
+        // while(temp){
+        //     count++;
+        //     temp = temp->next;
+        // }
+
+        // temp = head;
+        // for(int i=1; i<=count; i++){
+        //     if(i%2==0){
+        //         e->next = temp;
+        //         e = e->next;
+        //     }else{
+        //         o->next = temp;
+        //         o = o->next;
+        //     }
+        //     temp = temp->next;
+        // }
+        // e->next = NULL;
+        // o->next = l1->next;
+        // return l2->next;
+        if (!head || !head->next) return head;
+
+        ListNode* odd = head;
+        ListNode* even = head->next;
+        ListNode* evenHead = even;
+
+        while (even && even->next) {
+            odd->next = even->next;
+            odd = odd->next;
+
+            even->next = odd->next;
+            even = even->next;
         }
 
-        temp = head;
-        for(int i=1; i<=count; i++){
-            if(i%2==0){
-                e->next = temp;
-                e = e->next;
-            }else{
-                o->next = temp;
-                o = o->next;
-            }
-            temp = temp->next;
-        }
-        e->next = NULL;
-        o->next = l1->next;
-        return l2->next;
+        odd->next = evenHead;
+        return head;
     }
 };
