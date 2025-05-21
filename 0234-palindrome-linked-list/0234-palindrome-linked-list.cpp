@@ -40,24 +40,19 @@ public:
         // }
         // return true;
 
-        ListNode* temp  = head;
-        ListNode* curr  = new ListNode(0);
-        ListNode* dummy = curr;
-    
-        while(temp){
-            dummy->next = new ListNode(temp->val);
-            dummy = dummy->next;
-            temp  = temp->next; 
-        }
+        ListNode* s = head;
+        ListNode* f = head;
 
-        curr = curr->next;
-        curr = reverse(curr);
-        ListNode* a = head;
-        ListNode* b = curr;
-        while(a){
-            if(a->val != b->val) return false;
-            a = a->next;
-            b = b->next;
+        while(f->next && f->next->next){
+            s = s->next;
+            f = f->next->next;
+        }
+        ListNode* rev = reverse(s->next);
+        s = head;
+        while(rev){
+            if(s->val != rev->val) return false;
+            s = s->next;
+            rev = rev->next;
         }
         return true;
     }
