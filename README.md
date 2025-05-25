@@ -59,6 +59,7 @@
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anup050/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Anup050/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Anup050/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Anup050/DSA/tree/master/0932-monotonic-array) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 ## Recursion
@@ -90,6 +92,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Anup050/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Anup050/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -145,6 +148,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anup050/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anup050/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -162,6 +166,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Anup050/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
@@ -189,4 +194,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anup050/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Anup050/DSA/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
