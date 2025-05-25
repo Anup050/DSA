@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Anup050/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anup050/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Anup050/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anup050/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
