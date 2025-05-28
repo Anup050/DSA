@@ -1,27 +1,15 @@
 class Solution {
 public:
-    bool isPerfectSquare(int n){
-        int root = sqrt(n);
-        if((root*root) == n){
-            return true;
-        }else{
-            return false;
-        }
+    bool isPerfectSquare(long long n) {
+        long long root = (long long)sqrt(n);
+        return root * root == n;
     }
-    bool judgeSquareSum(int c) {
-        int x = 0,y = c;
 
-        while(x <= y){
-            if(isPerfectSquare(x) && isPerfectSquare(y)){
-                return true;
-            }else if(!isPerfectSquare(y)){
-                y = (int)sqrt(y)*(int)sqrt(y);
-                x = c-y;
-            }else{
-                x = ((int)sqrt(x)+1)*((int)sqrt(x)+1);
-                y = c-x;
-            }
+    bool judgeSquareSum(int c) {
+        for (long long a = 0; a * a <= c; ++a) {
+            long long b = c - a * a;
+            if (isPerfectSquare(b)) return true;
         }
         return false;
-    } 
+    }
 };
