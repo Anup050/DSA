@@ -7,6 +7,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anup050/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Anup050/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Anup050/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Anup050/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anup050/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Anup050/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Anup050/DSA/tree/master/0125-valid-palindrome) |
@@ -60,6 +61,7 @@
 | [0042-trapping-rain-water](https://github.com/Anup050/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anup050/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Anup050/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Anup050/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anup050/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Anup050/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -183,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anup050/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Anup050/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
