@@ -64,6 +64,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Anup050/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anup050/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anup050/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Anup050/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anup050/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anup050/DSA/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anup050/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anup050/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
@@ -222,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anup050/DSA/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
