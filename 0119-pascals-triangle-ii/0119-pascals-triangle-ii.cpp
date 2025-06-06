@@ -15,7 +15,7 @@ public:
         // int n = rowIndex;
         // vector<vector<int>> v;
 
-        // for(int i=0; i<=n; i++){
+        // for(int i=0; i<n; i++){
         //     vector<int> row(i+1);
         //     v.push_back(row);
         //     for(int j=0; j<=i; j++){
