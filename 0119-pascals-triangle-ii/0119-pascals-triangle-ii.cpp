@@ -14,12 +14,10 @@ public:
         return row;
         // int n = rowIndex;
         // vector<vector<int>> v;
-        // for(int i=1; i<=n+1; i++){
-        //     vector<int> row(i);
-        //     v.push_back(row);
-        // }
 
         // for(int i=0; i<=n; i++){
+        //     vector<int> row(i);
+        //     v.push_back(row);
         //     for(int j=0; j<=i; j++){
         //         if(j == 0 || j == i){
         //             v[i][j] = 1;
