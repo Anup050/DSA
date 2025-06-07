@@ -12,21 +12,19 @@ public:
         //     }
         // }
         // return false;
-        for(int i=0; i<m; i++){
-            if(matrix[i][0] <= target && target <= matrix[i][n-1]){
-                int start=0,end=n-1;
-                while(start<=end){
-                    int mid = start + (end-start)/2;
-                    if(matrix[i][mid] == target){
-                        return true;
-                    }else if(matrix[i][mid] > target){
-                        end = mid-1;
-                    }else{
-                        start = mid+1;
-                    }
-                }
-            }
+        int low = 0, high = m * n - 1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            int row = mid / n;
+            int col = mid % n;
+            int value = matrix[row][col];
+
+            if (value == target) return true;
+            else if (value < target) low = mid + 1;
+            else high = mid - 1;
         }
+
         return false;
     }
 };
