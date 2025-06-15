@@ -17,8 +17,7 @@ public:
         int index = 0;
         for (int i = 0; i < v.size(); i++) {
             if (v[i] != a) {
-                v[index] = v[i];
-                index++;
+                v[index++] = v[i];
             }
         }
         return index;
