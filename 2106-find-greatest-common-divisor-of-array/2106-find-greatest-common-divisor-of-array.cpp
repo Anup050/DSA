@@ -1,9 +1,15 @@
 class Solution {
 public:
 
-    int hcf(int mini, int maxi){
-        if(maxi == 0) return mini;
-        return hcf(maxi, mini%maxi);
+    int hcf(int a, int b){
+        // if(maxi == 0) return mini;
+        // return hcf(maxi, mini%maxi);
+        while(b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
     int findGCD(vector<int>& nums) {
         int n = nums.size();
@@ -14,7 +20,6 @@ public:
             mini = min(mini,nums[i]);
             maxi = max(maxi,nums[i]);
         }
-        int gcd = hcf(mini,maxi);
-        return gcd;
+        return gcd(mini,maxi);
     }
 };
