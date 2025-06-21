@@ -10,8 +10,8 @@ public:
         }
         for(auto i : mp){
             if(i.second>fq){
-                fq= i.second;
-                m = i.first;
+                fq = i.second;
+                m  = i.first;
             }
             if(i.second == fq && i.first<m){
                 m = i.first;
