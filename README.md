@@ -113,6 +113,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anup050/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anup050/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -154,6 +155,7 @@
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -262,6 +264,7 @@
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
 |  |
