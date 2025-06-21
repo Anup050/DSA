@@ -38,6 +38,7 @@
 | [0125-valid-palindrome](https://github.com/Anup050/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anup050/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
@@ -153,6 +154,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Anup050/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
@@ -251,6 +253,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -303,6 +306,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Anup050/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 ## Bucket Sort
 |  |
