@@ -129,6 +129,7 @@
 | [0069-sqrtx](https://github.com/Anup050/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anup050/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anup050/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
@@ -142,6 +143,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Anup050/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Anup050/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anup050/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anup050/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anup050/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
