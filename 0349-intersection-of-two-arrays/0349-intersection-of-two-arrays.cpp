@@ -2,15 +2,15 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         vector<int> v;
-        unordered_map<int, int> mp;
+        unordered_set<int> s;
         
         for(int i : nums1){
-            mp[i]++;
+            s.insert(i);
         }
         for(int i : nums2){
-            if(mp.find(i) != mp.end()){
+            if(s.find(i) != s.end()){
                 v.push_back(i);
-                mp.erase(i);
+                s.erase(i);
             }
         }
         return v;
