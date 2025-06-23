@@ -139,6 +139,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anup050/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anup050/DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2639-separate-the-digits-in-an-array) |
