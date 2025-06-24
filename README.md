@@ -32,6 +32,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anup050/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -123,6 +124,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anup050/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anup050/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anup050/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
