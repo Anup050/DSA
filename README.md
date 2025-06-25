@@ -104,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/Anup050/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anup050/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup050/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anup050/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Anup050/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
@@ -186,6 +187,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anup050/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup050/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anup050/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anup050/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
