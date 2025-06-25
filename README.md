@@ -31,6 +31,7 @@
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anup050/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -116,6 +117,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Anup050/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anup050/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anup050/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -183,6 +185,7 @@
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anup050/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
@@ -256,6 +259,7 @@
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anup050/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +297,7 @@
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 ## Sliding Window
