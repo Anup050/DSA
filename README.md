@@ -159,6 +159,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Anup050/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Anup050/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anup050/DSA/tree/master/0069-sqrtx) |
