@@ -48,6 +48,7 @@
 | [0205-isomorphic-strings](https://github.com/Anup050/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anup050/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
@@ -175,6 +176,7 @@
 | [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anup050/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Anup050/DSA/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
@@ -360,6 +362,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anup050/DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Anup050/DSA/tree/master/2048-build-array-from-permutation) |
