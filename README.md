@@ -74,6 +74,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
@@ -229,6 +231,7 @@
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
