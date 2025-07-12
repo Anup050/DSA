@@ -4,12 +4,13 @@ public:
         int n = citations.size();
         sort(citations.begin(), citations.end());
         int i=1;
+        int h = 0;
         while(i<=n){
-            if(citations[n-i]<i){
-                break;
+            if(citations[n-i]>=i){
+                h = i;
             }
             i++;
         }
-        return i-1;
+        return h;
     }
 };
