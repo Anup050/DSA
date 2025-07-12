@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int hIndex(vector<int>& citations) {
+        int n = citations.size();
+        sort(citations.begin(), citations.end());
+        int i;
+        for(i=1; i<=n; i++){
+            if(citations[n-i]<i){
+                break;
+            }
+        }
+        return i-1;
+    }
+};
