@@ -193,6 +193,7 @@
 | [0070-climbing-stairs](https://github.com/Anup050/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anup050/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Anup050/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anup050/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
