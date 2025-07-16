@@ -5,11 +5,11 @@ public:
         
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] > nums[i - 1]) 
-                decreasing = false;  // Not decreasing
+                decreasing = false;
             if (nums[i] < nums[i - 1]) 
-                increasing = false;  // Not increasing
+                increasing = false;
         }
 
-        return increasing || decreasing;  // If either is true, array is monotonic
+        return increasing || decreasing;
     }
 };
