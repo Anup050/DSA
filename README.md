@@ -165,6 +165,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anup050/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Anup050/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
@@ -395,6 +396,7 @@
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Anup050/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
@@ -454,6 +456,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
