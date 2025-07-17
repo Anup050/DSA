@@ -181,6 +181,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/Anup050/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anup050/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anup050/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -437,6 +438,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Anup050/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anup050/DSA/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -455,6 +457,7 @@
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 ## Heap (Priority Queue)
