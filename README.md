@@ -175,6 +175,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Anup050/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
+| [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anup050/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Anup050/DSA/tree/master/2048-build-array-from-permutation) |
@@ -273,6 +274,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
@@ -430,6 +432,7 @@
 | [0383-ransom-note](https://github.com/Anup050/DSA/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
