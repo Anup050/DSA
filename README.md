@@ -54,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -178,6 +179,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anup050/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Anup050/DSA/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
