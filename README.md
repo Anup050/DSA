@@ -339,6 +339,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Anup050/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Anup050/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anup050/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Anup050/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -363,6 +364,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Anup050/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Anup050/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anup050/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Anup050/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -615,4 +617,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Anup050/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
