@@ -59,6 +59,7 @@
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anup050/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Anup050/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Anup050/DSA/tree/master/3194-find-words-containing-character) |
