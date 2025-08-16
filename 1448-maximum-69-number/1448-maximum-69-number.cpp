@@ -3,7 +3,7 @@ public:
     int maximum69Number (int num) {
         int temp = num;
         vector<int> v;
-        int n = 0;
+
         while(temp>0){
             int n = temp%10;
             v.push_back(n);
