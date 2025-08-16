@@ -251,6 +251,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anup050/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anup050/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anup050/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -595,6 +596,7 @@
 | [0455-assign-cookies](https://github.com/Anup050/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
+| [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Memoization
 |  |
