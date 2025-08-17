@@ -4,7 +4,6 @@ public:
         int count  = 0;
         for(int i=0; i<words.size(); i++){
             string s = words[i];
-            int j=0;
             if(pref.length() <= s.length()){
                 int i=0;
                 bool flag = true;
