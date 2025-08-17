@@ -1,15 +1,12 @@
 class Solution {
 public:
-    int help(vector<int> &fre,int n){
-        if(fre[n]!=-1) return fre[n];
-        if(n==1) return 1;
-        if(n==2) return 2;
-        int ans=help(fre,n-1)+help(fre,n-2);
-        fre[n]=ans;
-        return ans;
-    }
     int climbStairs(int n) {
-        vector<int> fre(n+1,-1);
-        return help(fre,n);
+        int prev2 = 1, prev1 = 1;
+        for(int i=2; i<=n; i++){
+            int curr = prev1 +prev2;
+            prev2 = prev1;
+            prev1 = curr;
+        }
+        return prev1;
     }
 };
