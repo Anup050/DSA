@@ -10,7 +10,7 @@ public:
                     break;
                 } 
             }
-            if(flag == false) count++;
+            if(!flag) count++;
         }
         return count;
     }
