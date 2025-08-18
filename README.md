@@ -37,6 +37,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anup050/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anup050/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -177,6 +178,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anup050/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -427,6 +429,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Anup050/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -481,6 +484,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anup050/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
