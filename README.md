@@ -155,6 +155,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anup050/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Anup050/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Anup050/DSA/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
@@ -541,6 +542,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anup050/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
@@ -565,6 +567,7 @@
 | [0054-spiral-matrix](https://github.com/Anup050/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Anup050/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup050/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
