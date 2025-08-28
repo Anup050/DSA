@@ -71,6 +71,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Anup050/DSA/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Anup050/DSA/tree/master/3396-valid-word) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -347,6 +348,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anup050/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anup050/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
