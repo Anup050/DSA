@@ -288,6 +288,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anup050/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Anup050/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
