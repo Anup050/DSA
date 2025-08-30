@@ -64,6 +64,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anup050/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anup050/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -345,6 +346,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anup050/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -543,6 +545,7 @@
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
