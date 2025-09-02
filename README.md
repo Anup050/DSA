@@ -39,6 +39,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anup050/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anup050/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -66,6 +67,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anup050/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anup050/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -377,6 +379,7 @@
 | [0739-daily-temperatures](https://github.com/Anup050/DSA/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
