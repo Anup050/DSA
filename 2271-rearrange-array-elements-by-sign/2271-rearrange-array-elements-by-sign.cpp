@@ -3,7 +3,7 @@ public:
     vector<int> rearrangeArray(vector<int>& nums) {
         vector<int> v1(nums.size()/2);
         vector<int> v2(nums.size()/2);
-        vector<int> res(nums.size());
+        //vector<int> res(nums.size());
         int j=0,k=0;
         for(int i : nums){
             if(i>0){
@@ -15,9 +15,9 @@ public:
         int i=0;
         j=0,k=0;
         while(j<v1.size() && k<v2.size()){
-            res[i++] = v1[j++];
-            res[i++] = v2[k++];
+            nums[i++] = v1[j++];
+            nums[i++] = v2[k++];
         }
-        return res;
+        return nums;
     }
 };
