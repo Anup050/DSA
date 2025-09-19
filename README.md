@@ -89,6 +89,7 @@
 | [3396-valid-word](https://github.com/Anup050/DSA/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anup050/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Anup050/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -630,6 +631,7 @@
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Anup050/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
