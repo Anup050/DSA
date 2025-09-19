@@ -69,6 +69,7 @@
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anup050/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -198,6 +199,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anup050/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Anup050/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -372,6 +374,7 @@
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anup050/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -592,6 +595,7 @@
 | [0383-ransom-note](https://github.com/Anup050/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anup050/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
