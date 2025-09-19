@@ -64,6 +64,7 @@
 | [0344-reverse-string](https://github.com/Anup050/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anup050/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anup050/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
@@ -362,6 +363,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anup050/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup050/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Anup050/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anup050/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anup050/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -587,6 +589,7 @@
 | [0169-majority-element](https://github.com/Anup050/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anup050/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Anup050/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anup050/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -773,4 +776,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
