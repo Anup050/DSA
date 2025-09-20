@@ -74,6 +74,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anup050/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Anup050/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
@@ -602,6 +603,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anup050/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Anup050/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
