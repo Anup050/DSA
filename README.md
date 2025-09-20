@@ -92,6 +92,7 @@
 | [3396-valid-word](https://github.com/Anup050/DSA/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anup050/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3636-check-balanced-string](https://github.com/Anup050/DSA/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anup050/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
