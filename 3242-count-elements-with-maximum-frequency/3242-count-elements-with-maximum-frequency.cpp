@@ -6,9 +6,7 @@ public:
         unordered_map<int,int> mp;
         for(int i : nums){
             mp[i]++;
-        }
-        for(auto &i : mp){
-            mC = max(mC, i.second);
+            mC = max(mC,mp[i]);
         }
         for(auto &i : mp){
             if(i.second == mC) mSum += i.second;
