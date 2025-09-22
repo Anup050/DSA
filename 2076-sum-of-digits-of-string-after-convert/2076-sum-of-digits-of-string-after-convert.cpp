@@ -12,10 +12,8 @@ public:
             ss << str[i];
             int n = 0;
             ss >> n;
-            while(n){
-                num += n%10;
-                n /= 10;
-            }
+            num += n;
+               
         }
         k--;
         while(k){
