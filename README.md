@@ -814,4 +814,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anup050/DSA/tree/master/0175-combine-two-tables) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anup050/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
