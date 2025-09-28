@@ -810,4 +810,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anup050/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
