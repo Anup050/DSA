@@ -71,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -193,6 +194,7 @@
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Anup050/DSA/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup050/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anup050/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
@@ -389,6 +391,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anup050/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anup050/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Anup050/DSA/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
