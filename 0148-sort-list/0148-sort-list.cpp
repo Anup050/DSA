@@ -19,7 +19,6 @@ public:
         }
         temp = head;
         sort(begin(v),end(v));
-        int i = 0;
         for(int i=0; i<v.size(); i++){
             temp->val = v[i];
             temp = temp->next;
