@@ -829,6 +829,7 @@
 | [0175-combine-two-tables](https://github.com/Anup050/DSA/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Anup050/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Anup050/DSA/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Anup050/DSA/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anup050/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anup050/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
