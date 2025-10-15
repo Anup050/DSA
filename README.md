@@ -841,6 +841,7 @@
 | [1258-article-views-i](https://github.com/Anup050/DSA/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Anup050/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Anup050/DSA/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/Anup050/DSA/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anup050/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anup050/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
