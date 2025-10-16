@@ -335,6 +335,7 @@
 | [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -656,6 +657,7 @@
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Anup050/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anup050/DSA/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Anup050/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
