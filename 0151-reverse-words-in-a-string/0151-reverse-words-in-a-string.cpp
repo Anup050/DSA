@@ -28,11 +28,9 @@ public:
         }
         st.push_back(str);
         s = "";
-        reverse(begin(st),end(st));
         for(int i=0; i<st.size(); i++){
-            s += st[i];
+            s = st[i] + s;
         }
-        
         return s;
     }
 };
