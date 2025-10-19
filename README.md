@@ -844,6 +844,7 @@
 | [0620-not-boring-movies](https://github.com/Anup050/DSA/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Anup050/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Anup050/DSA/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/Anup050/DSA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Anup050/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Anup050/DSA/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Anup050/DSA/tree/master/1877-find-followers-count) |
