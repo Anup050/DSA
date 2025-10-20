@@ -4,25 +4,18 @@ public:
         if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') return true;
         return false;
     }
-
     int maxVowels(string s, int k) {
         int ans = 0;
         int n = s.length();
-        int i=0,j=k;
-        int count = 0;
-        int z = i;
-        while(z<j){
-            if(isVowel(s[z])){
-                count++;
-            }
-            z++;
-        }
-        ans = max(ans,count);
+        int count = 0; 
+        int i=0,j=0;
         while(j<n){
-            if(isVowel(s[i])) count--;
             if(isVowel(s[j])) count++;
-            ans = max(ans,count);
-            i++;
+            if(j-i+1 == k){
+                ans = max(ans,count);
+                if(isVowel(s[i])) count--;
+                i++;
+            }
             j++;
         }
         return ans;
