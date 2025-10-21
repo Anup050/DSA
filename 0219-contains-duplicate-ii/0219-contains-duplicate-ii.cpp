@@ -13,10 +13,8 @@ public:
                     j++;
                 }
             }else{
-                if(s.find(nums[i]) != s.end()){
-                    s.erase(nums[i]);
-                    i++;
-                }
+                s.erase(nums[i]);
+                i++;
             }
         }
         return false;
