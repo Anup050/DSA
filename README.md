@@ -876,6 +876,7 @@
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Anup050/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Anup050/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Anup050/DSA/tree/master/1664-find-users-with-valid-e-mails) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anup050/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Anup050/DSA/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Anup050/DSA/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anup050/DSA/tree/master/1908-recyclable-and-low-fat-products) |
