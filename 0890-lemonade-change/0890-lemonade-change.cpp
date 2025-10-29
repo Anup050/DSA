@@ -1,15 +1,6 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        // int sum = 0;
-        // for(int i=0; i<bills.size(); i++){
-        //     if(bills[i] == 5){
-        //         sum += 5;
-        //     }else if(bills[i] == 20){
-        //         sum -= 10;
-        //     }
-        // }
-        // return (sum > 0) ? true : false;
         int f = 0,t = 0;
         for(int  i : bills){
             if(i == 5){ 
