@@ -313,6 +313,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anup050/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Anup050/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup050/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Anup050/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
