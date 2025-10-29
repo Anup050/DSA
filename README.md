@@ -77,6 +77,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1044-find-common-characters](https://github.com/Anup050/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -222,6 +223,7 @@
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/Anup050/DSA/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anup050/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -417,6 +419,7 @@
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/Anup050/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
