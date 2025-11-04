@@ -378,6 +378,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anup050/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Anup050/DSA/tree/master/3830-find-closest-person) |
@@ -841,6 +842,7 @@
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/Anup050/DSA/tree/master/3221-find-the-peaks) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Segment Tree
 |  |
 | ------- |
