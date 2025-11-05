@@ -369,6 +369,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Anup050/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Anup050/DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anup050/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
