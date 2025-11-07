@@ -388,6 +388,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Anup050/DSA/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -824,6 +825,7 @@
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
