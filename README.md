@@ -361,6 +361,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Anup050/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -821,6 +822,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
@@ -850,6 +852,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/Anup050/DSA/tree/master/3221-find-the-peaks) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
