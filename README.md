@@ -365,6 +365,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Anup050/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anup050/DSA/tree/master/2383-add-two-integers) |
@@ -723,6 +724,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anup050/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anup050/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anup050/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Anup050/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
