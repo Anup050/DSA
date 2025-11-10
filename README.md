@@ -325,6 +325,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/Anup050/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup050/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Anup050/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -393,6 +394,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Anup050/DSA/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -851,6 +853,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Anup050/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2571-find-the-pivot-integer) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
 | ------- |
