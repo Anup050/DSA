@@ -405,6 +405,7 @@
 | [3830-find-closest-person](https://github.com/Anup050/DSA/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Anup050/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -748,6 +749,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anup050/DSA/tree/master/3811-reverse-degree-of-a-string) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Anup050/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
