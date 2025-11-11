@@ -375,6 +375,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anup050/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/Anup050/DSA/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2571-find-the-pivot-integer) |
@@ -842,6 +843,7 @@
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -873,6 +875,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Anup050/DSA/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Anup050/DSA/tree/master/3221-find-the-peaks) |
