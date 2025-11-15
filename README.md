@@ -277,6 +277,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anup050/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anup050/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2169-simple-bank-system](https://github.com/Anup050/DSA/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anup050/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -676,6 +677,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anup050/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anup050/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Anup050/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -828,6 +830,7 @@
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
@@ -838,6 +841,7 @@
 | [0890-lemonade-change](https://github.com/Anup050/DSA/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Memoization
 |  |
