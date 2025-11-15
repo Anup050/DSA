@@ -6,12 +6,11 @@ public:
         for(int i : nums){
             if(i == 1){
                 count++;
-            }else{
                 maxOne = max(maxOne, count);
+            }else{
                 count = 0;
             }
         }
-        maxOne = max(maxOne, count);
         return maxOne;
     }
 };
