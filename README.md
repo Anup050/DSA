@@ -276,6 +276,7 @@
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Anup050/DSA/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Anup050/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anup050/DSA/tree/master/2058-concatenation-of-array) |
@@ -498,6 +499,7 @@
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Anup050/DSA/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anup050/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Anup050/DSA/tree/master/2103-rings-and-rods) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -839,6 +841,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anup050/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
