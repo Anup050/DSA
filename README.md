@@ -321,6 +321,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anup050/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anup050/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Anup050/DSA/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Anup050/DSA/tree/master/3221-find-the-peaks) |
@@ -515,6 +516,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/Anup050/DSA/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anup050/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anup050/DSA/tree/master/3412-permutation-difference-between-two-strings) |
@@ -839,6 +841,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anup050/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bucket Sort
