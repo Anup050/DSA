@@ -51,6 +51,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anup050/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anup050/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/Anup050/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -400,6 +401,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anup050/DSA/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Anup050/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
@@ -977,6 +979,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Anup050/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
