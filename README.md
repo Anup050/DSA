@@ -335,6 +335,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anup050/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Anup050/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anup050/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -800,6 +801,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -837,6 +839,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Merge Sort
 |  |
 | ------- |
