@@ -338,6 +338,7 @@
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anup050/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anup050/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anup050/DSA/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anup050/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -533,6 +534,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anup050/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anup050/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anup050/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anup050/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anup050/DSA/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -935,6 +937,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Anup050/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anup050/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
