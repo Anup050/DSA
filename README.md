@@ -148,6 +148,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anup050/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
@@ -422,6 +423,7 @@
 | [2748-calculate-delayed-arrival-time](https://github.com/Anup050/DSA/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Anup050/DSA/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anup050/DSA/tree/master/2812-find-the-maximum-achievable-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Anup050/DSA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anup050/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -566,6 +568,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
