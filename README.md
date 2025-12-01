@@ -388,6 +388,7 @@
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anup050/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anup050/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anup050/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anup050/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -873,6 +874,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Anup050/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anup050/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anup050/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
