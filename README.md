@@ -353,6 +353,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/Anup050/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup050/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Anup050/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
@@ -442,6 +443,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anup050/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -552,6 +554,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anup050/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anup050/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/Anup050/DSA/tree/master/4008-restore-finishing-order) |
@@ -1023,6 +1026,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Database
 |  |
 | ------- |
