@@ -98,6 +98,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anup050/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anup050/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2211-count-collisions-on-a-road](https://github.com/Anup050/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anup050/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anup050/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -575,6 +576,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/Anup050/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -808,6 +810,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anup050/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Anup050/DSA/tree/master/2169-simple-bank-system) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anup050/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2211-count-collisions-on-a-road](https://github.com/Anup050/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anup050/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anup050/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anup050/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
