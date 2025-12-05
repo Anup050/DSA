@@ -362,6 +362,7 @@
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/Anup050/DSA/tree/master/4008-restore-finishing-order) |
@@ -675,6 +676,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Anup050/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -689,6 +691,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup050/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -754,6 +757,7 @@
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -934,6 +938,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Number Theory
 |  |
 | ------- |
