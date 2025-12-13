@@ -114,6 +114,7 @@
 | [3396-valid-word](https://github.com/Anup050/DSA/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anup050/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Anup050/DSA/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anup050/DSA/tree/master/3811-reverse-degree-of-a-string) |
@@ -360,6 +361,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/Anup050/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/Anup050/DSA/tree/master/3583-count-special-triplets) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup050/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Anup050/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -570,6 +572,7 @@
 | [3531-count-covered-buildings](https://github.com/Anup050/DSA/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anup050/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Anup050/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -770,6 +773,7 @@
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/Anup050/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Anup050/DSA/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sliding Window
