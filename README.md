@@ -100,6 +100,7 @@
 | [2103-rings-and-rods](https://github.com/Anup050/DSA/tree/master/2103-rings-and-rods) |
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anup050/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anup050/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2211-count-collisions-on-a-road](https://github.com/Anup050/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anup050/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -424,6 +425,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Anup050/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anup050/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -724,6 +726,7 @@
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anup050/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sorting
 |  |
