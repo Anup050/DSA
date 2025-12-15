@@ -440,6 +440,7 @@
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2544-alternating-digit-sum](https://github.com/Anup050/DSA/tree/master/2544-alternating-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/Anup050/DSA/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Anup050/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
