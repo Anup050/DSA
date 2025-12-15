@@ -415,6 +415,7 @@
 | [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Anup050/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1585-the-kth-factor-of-n](https://github.com/Anup050/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
