@@ -296,6 +296,7 @@
 | [2058-concatenation-of-array](https://github.com/Anup050/DSA/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Anup050/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anup050/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anup050/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -425,6 +426,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anup050/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Anup050/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anup050/DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -726,6 +728,7 @@
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anup050/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anup050/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sorting
