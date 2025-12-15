@@ -239,6 +239,7 @@
 | [0932-monotonic-array](https://github.com/Anup050/DSA/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anup050/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -405,6 +406,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup050/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
@@ -720,6 +722,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup050/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
@@ -764,6 +767,7 @@
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -904,6 +908,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -978,6 +983,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Number Theory
 |  |
@@ -1083,6 +1089,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Database
 |  |
