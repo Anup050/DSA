@@ -281,6 +281,7 @@
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Anup050/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
@@ -425,6 +426,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Anup050/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Anup050/DSA/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -1013,6 +1015,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Anup050/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2485-find-the-pivot-integer) |
