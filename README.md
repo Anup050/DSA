@@ -323,6 +323,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anup050/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anup050/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -884,6 +885,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Anup050/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anup050/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -914,6 +916,7 @@
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anup050/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/Anup050/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Anup050/DSA/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
