@@ -116,6 +116,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Anup050/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Anup050/DSA/tree/master/3194-find-words-containing-character) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anup050/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3379-score-of-a-string](https://github.com/Anup050/DSA/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Anup050/DSA/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anup050/DSA/tree/master/3412-permutation-difference-between-two-strings) |
@@ -474,6 +475,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anup050/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anup050/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup050/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
