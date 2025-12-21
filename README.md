@@ -437,6 +437,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Anup050/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anup050/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Anup050/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -941,6 +942,7 @@
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Anup050/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -1003,6 +1005,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anup050/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anup050/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Anup050/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anup050/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
