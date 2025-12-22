@@ -1151,6 +1151,7 @@
 | [1415-students-and-examinations](https://github.com/Anup050/DSA/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Anup050/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Anup050/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/Anup050/DSA/tree/master/1527-patients-with-a-condition) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Anup050/DSA/tree/master/1664-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/Anup050/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anup050/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
