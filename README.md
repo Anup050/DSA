@@ -426,6 +426,7 @@
 | [0002-add-two-numbers](https://github.com/Anup050/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anup050/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anup050/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Anup050/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Anup050/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anup050/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
@@ -1024,6 +1025,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anup050/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Anup050/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Anup050/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
