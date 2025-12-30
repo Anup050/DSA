@@ -258,6 +258,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Anup050/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anup050/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Anup050/DSA/tree/master/0890-lemonade-change) |
@@ -450,6 +451,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup050/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -589,6 +591,7 @@
 | [0692-top-k-frequent-words](https://github.com/Anup050/DSA/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
+| [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -989,6 +992,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup050/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
