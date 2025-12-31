@@ -325,6 +325,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anup050/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Anup050/DSA/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -717,6 +718,7 @@
 | [0437-path-sum-iii](https://github.com/Anup050/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anup050/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anup050/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Anup050/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anup050/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -745,6 +747,7 @@
 | [0112-path-sum](https://github.com/Anup050/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Anup050/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anup050/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Anup050/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Binary Search
 |  |
@@ -782,6 +785,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anup050/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/Anup050/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anup050/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1000,6 +1004,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anup050/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -1150,6 +1155,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anup050/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Anup050/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Design
 |  |
