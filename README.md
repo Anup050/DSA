@@ -826,6 +826,7 @@
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anup050/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anup050/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anup050/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anup050/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
