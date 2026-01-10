@@ -88,6 +88,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Anup050/DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Anup050/DSA/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -834,6 +835,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup050/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anup050/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anup050/DSA/tree/master/0152-maximum-product-subarray) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Anup050/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
