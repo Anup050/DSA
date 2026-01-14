@@ -91,6 +91,7 @@
 | [0709-to-lower-case](https://github.com/Anup050/DSA/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/Anup050/DSA/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/Anup050/DSA/tree/master/0917-reverse-only-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1230,6 +1231,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anup050/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Anup050/DSA/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Anup050/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anup050/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
