@@ -390,6 +390,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anup050/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anup050/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anup050/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anup050/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -523,6 +524,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Anup050/DSA/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anup050/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anup050/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anup050/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -1267,6 +1269,7 @@
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anup050/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anup050/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Database
 |  |
