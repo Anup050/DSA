@@ -494,6 +494,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anup050/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Anup050/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Anup050/DSA/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1922-count-good-numbers](https://github.com/Anup050/DSA/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Anup050/DSA/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anup050/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
@@ -572,6 +573,7 @@
 | [0326-power-of-three](https://github.com/Anup050/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anup050/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Anup050/DSA/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anup050/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
