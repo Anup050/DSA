@@ -64,6 +64,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3794-reverse-string-prefix](https://github.com/Anup050/DSA/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Anup050/DSA/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/Anup050/DSA/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anup050/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
