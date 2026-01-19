@@ -65,6 +65,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/Anup050/DSA/tree/master/3794-reverse-string-prefix) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -441,6 +442,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/Anup050/DSA/tree/master/4008-restore-finishing-order) |
 ## Math
@@ -829,6 +831,7 @@
 | [3454-separate-squares-ii](https://github.com/Anup050/DSA/tree/master/3454-separate-squares-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -872,6 +875,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Anup050/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Anup050/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -1108,6 +1112,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Bucket Sort
 |  |
 | ------- |
