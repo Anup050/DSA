@@ -545,6 +545,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anup050/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup050/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/Anup050/DSA/tree/master/3360-stone-removal-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/Anup050/DSA/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1035,6 +1036,7 @@
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3360-stone-removal-game](https://github.com/Anup050/DSA/tree/master/3360-stone-removal-game) |
 | [3433-count-mentions-per-user](https://github.com/Anup050/DSA/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anup050/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
