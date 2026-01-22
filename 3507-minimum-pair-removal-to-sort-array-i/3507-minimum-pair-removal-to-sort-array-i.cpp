@@ -2,8 +2,7 @@ class Solution {
 public:
     int minimumPairRemoval(vector<int>& nums) {
         int count = 0;
-        bool flag  = true;
-        while(flag){
+        while(1){
             if(is_sorted(begin(nums),end(nums))) break;
             int minPairSum = INT_MAX;
             int idx = 0;
