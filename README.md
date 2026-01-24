@@ -451,6 +451,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3788-maximum-score-of-a-split](https://github.com/Anup050/DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -1228,6 +1229,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Anup050/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3788-maximum-score-of-a-split](https://github.com/Anup050/DSA/tree/master/3788-maximum-score-of-a-split) |
 ## Union Find
 |  |
 | ------- |
