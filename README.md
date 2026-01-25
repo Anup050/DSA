@@ -444,6 +444,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup050/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3618-split-array-by-prime-indices](https://github.com/Anup050/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Anup050/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3663-find-the-least-frequent-digit](https://github.com/Anup050/DSA/tree/master/3663-find-the-least-frequent-digit) |
@@ -566,6 +567,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Anup050/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3618-split-array-by-prime-indices](https://github.com/Anup050/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Anup050/DSA/tree/master/3663-find-the-least-frequent-digit) |
@@ -1209,6 +1211,7 @@
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Anup050/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3618-split-array-by-prime-indices](https://github.com/Anup050/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
