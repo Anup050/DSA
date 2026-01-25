@@ -394,6 +394,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anup050/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Anup050/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Anup050/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -542,6 +543,7 @@
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Anup050/DSA/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Anup050/DSA/tree/master/2752-sum-multiples) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Anup050/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anup050/DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1211,6 +1213,7 @@
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Anup050/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Anup050/DSA/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Anup050/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1263,6 +1266,7 @@
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anup050/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Anup050/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anup050/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Anup050/DSA/tree/master/2998-count-symmetric-integers) |
