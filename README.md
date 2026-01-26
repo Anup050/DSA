@@ -294,6 +294,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Anup050/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Anup050/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Anup050/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -937,6 +938,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Anup050/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anup050/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup050/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
