@@ -493,6 +493,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0866-prime-palindrome](https://github.com/Anup050/DSA/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1217,6 +1218,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Anup050/DSA/tree/master/0866-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Anup050/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anup050/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
