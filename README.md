@@ -119,6 +119,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anup050/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anup050/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1844-replace-all-digits-with-characters](https://github.com/Anup050/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anup050/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
