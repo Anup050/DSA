@@ -138,6 +138,7 @@
 | [2825-minimize-string-length](https://github.com/Anup050/DSA/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anup050/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Anup050/DSA/tree/master/3194-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anup050/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -406,6 +407,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anup050/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anup050/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anup050/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anup050/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1414,9 +1416,11 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Anup050/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Anup050/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
