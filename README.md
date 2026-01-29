@@ -140,6 +140,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anup050/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2788-split-strings-by-separator](https://github.com/Anup050/DSA/tree/master/2788-split-strings-by-separator) |
 | [2825-minimize-string-length](https://github.com/Anup050/DSA/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anup050/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -408,6 +409,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anup050/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anup050/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2788-split-strings-by-separator](https://github.com/Anup050/DSA/tree/master/2788-split-strings-by-separator) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Anup050/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
