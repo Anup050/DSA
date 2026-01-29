@@ -138,6 +138,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anup050/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/Anup050/DSA/tree/master/2325-decode-the-message) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anup050/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2788-split-strings-by-separator](https://github.com/Anup050/DSA/tree/master/2788-split-strings-by-separator) |
@@ -692,6 +693,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anup050/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anup050/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/Anup050/DSA/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anup050/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2402-meeting-rooms-iii](https://github.com/Anup050/DSA/tree/master/2402-meeting-rooms-iii) |
@@ -1038,6 +1040,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anup050/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anup050/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anup050/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1175,6 +1178,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anup050/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anup050/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
