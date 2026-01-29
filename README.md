@@ -143,6 +143,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Anup050/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3174-clear-digits](https://github.com/Anup050/DSA/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/Anup050/DSA/tree/master/3194-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anup050/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3379-score-of-a-string](https://github.com/Anup050/DSA/tree/master/3379-score-of-a-string) |
@@ -745,6 +746,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/Anup050/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anup050/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/Anup050/DSA/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1070,6 +1072,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/Anup050/DSA/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
