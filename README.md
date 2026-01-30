@@ -117,6 +117,7 @@
 | [1544-make-the-string-great](https://github.com/Anup050/DSA/tree/master/1544-make-the-string-great) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anup050/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Anup050/DSA/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Anup050/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anup050/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anup050/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -351,6 +352,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1773-count-items-matching-a-rule](https://github.com/Anup050/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
 | [1817-finding-the-users-active-minutes](https://github.com/Anup050/DSA/tree/master/1817-finding-the-users-active-minutes) |
