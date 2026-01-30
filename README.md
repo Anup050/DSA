@@ -145,6 +145,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2788-split-strings-by-separator](https://github.com/Anup050/DSA/tree/master/2788-split-strings-by-separator) |
+| [2810-faulty-keyboard](https://github.com/Anup050/DSA/tree/master/2810-faulty-keyboard) |
 | [2825-minimize-string-length](https://github.com/Anup050/DSA/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anup050/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -1090,6 +1091,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anup050/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2639-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/Anup050/DSA/tree/master/2810-faulty-keyboard) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Anup050/DSA/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
