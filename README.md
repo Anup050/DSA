@@ -312,6 +312,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Anup050/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1122-relative-sort-array](https://github.com/Anup050/DSA/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Anup050/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -678,6 +679,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Anup050/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Anup050/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1122-relative-sort-array](https://github.com/Anup050/DSA/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup050/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -973,6 +975,7 @@
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Anup050/DSA/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Anup050/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Anup050/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -1221,6 +1224,7 @@
 | [0274-h-index](https://github.com/Anup050/DSA/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Anup050/DSA/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
