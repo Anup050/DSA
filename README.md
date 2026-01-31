@@ -286,6 +286,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Anup050/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anup050/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Anup050/DSA/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anup050/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Anup050/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
@@ -875,6 +876,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Anup050/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anup050/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anup050/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
