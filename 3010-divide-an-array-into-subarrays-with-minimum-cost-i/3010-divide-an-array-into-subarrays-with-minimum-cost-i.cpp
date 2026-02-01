@@ -8,7 +8,7 @@ public:
             if(fMin > nums[i]){
                 sMin = fMin;
                 fMin = nums[i];
-            }else if(sMin > nums[i] && fMin <= nums[i]){
+            }else if(sMin > nums[i]){
                 sMin = nums[i];
             }
         }
