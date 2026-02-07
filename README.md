@@ -117,6 +117,7 @@
 | [1528-shuffle-string](https://github.com/Anup050/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Anup050/DSA/tree/master/1544-make-the-string-great) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anup050/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anup050/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/Anup050/DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Anup050/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -769,6 +770,7 @@
 | [1544-make-the-string-great](https://github.com/Anup050/DSA/tree/master/1544-make-the-string-great) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anup050/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Anup050/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -941,6 +943,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anup050/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anup050/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anup050/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anup050/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anup050/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anup050/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Anup050/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
