@@ -433,6 +433,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anup050/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anup050/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anup050/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anup050/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -1039,6 +1040,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Anup050/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Anup050/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anup050/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anup050/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anup050/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1286,6 +1288,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anup050/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anup050/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Memoization
