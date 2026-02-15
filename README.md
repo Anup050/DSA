@@ -77,6 +77,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anup050/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anup050/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anup050/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anup050/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anup050/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anup050/DSA/tree/master/0205-isomorphic-strings) |
@@ -515,6 +516,7 @@
 | [0048-rotate-image](https://github.com/Anup050/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anup050/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anup050/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anup050/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anup050/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anup050/DSA/tree/master/0189-rotate-array) |
@@ -1113,6 +1115,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anup050/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Anup050/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
@@ -1221,6 +1224,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anup050/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Anup050/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Anup050/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Anup050/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
