@@ -1234,6 +1234,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Anup050/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Anup050/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Anup050/DSA/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
@@ -1403,6 +1404,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Search Tree
 |  |
