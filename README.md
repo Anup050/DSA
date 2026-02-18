@@ -1236,6 +1236,7 @@
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Anup050/DSA/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Anup050/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
