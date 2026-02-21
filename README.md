@@ -536,6 +536,7 @@
 | [0507-perfect-number](https://github.com/Anup050/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup050/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anup050/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anup050/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0866-prime-palindrome](https://github.com/Anup050/DSA/tree/master/0866-prime-palindrome) |
@@ -1243,6 +1244,7 @@
 | [0476-number-complement](https://github.com/Anup050/DSA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anup050/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anup050/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Anup050/DSA/tree/master/1009-complement-of-base-10-integer) |
