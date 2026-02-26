@@ -116,6 +116,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup050/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Anup050/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anup050/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anup050/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anup050/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1524-string-matching-in-an-array](https://github.com/Anup050/DSA/tree/master/1524-string-matching-in-an-array) |
@@ -1137,6 +1138,7 @@
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anup050/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
@@ -1261,6 +1263,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anup050/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anup050/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anup050/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anup050/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anup050/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
