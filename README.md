@@ -172,6 +172,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Anup050/DSA/tree/master/3636-check-balanced-string) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Anup050/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Anup050/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -631,6 +632,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Anup050/DSA/tree/master/3663-find-the-least-frequent-digit) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -889,6 +891,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anup050/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Anup050/DSA/tree/master/2092-find-all-people-with-secret) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -1422,6 +1425,7 @@
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anup050/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anup050/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
@@ -1557,4 +1561,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anup050/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
