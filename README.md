@@ -122,6 +122,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Anup050/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Anup050/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Anup050/DSA/tree/master/1544-make-the-string-great) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anup050/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anup050/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anup050/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anup050/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -662,6 +663,7 @@
 | [0326-power-of-three](https://github.com/Anup050/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anup050/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anup050/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Anup050/DSA/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anup050/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1150,6 +1152,7 @@
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anup050/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anup050/DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anup050/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anup050/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anup050/DSA/tree/master/1806-count-of-matches-in-tournament) |
