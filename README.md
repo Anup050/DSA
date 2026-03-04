@@ -366,6 +366,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Anup050/DSA/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anup050/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anup050/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anup050/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -1211,6 +1212,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anup050/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anup050/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
 | [1895-largest-magic-square](https://github.com/Anup050/DSA/tree/master/1895-largest-magic-square) |
