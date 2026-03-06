@@ -44,6 +44,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Anup050/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Anup050/DSA/tree/master/0696-count-binary-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Anup050/DSA/tree/master/0917-reverse-only-letters) |
@@ -102,6 +103,7 @@
 | [0761-special-binary-string](https://github.com/Anup050/DSA/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Anup050/DSA/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Anup050/DSA/tree/master/0917-reverse-only-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anup050/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anup050/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -800,6 +802,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Anup050/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anup050/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Anup050/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anup050/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anup050/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1154,6 +1157,7 @@
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anup050/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
