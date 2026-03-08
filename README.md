@@ -144,6 +144,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anup050/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Anup050/DSA/tree/master/1944-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anup050/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/Anup050/DSA/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Anup050/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Anup050/DSA/tree/master/2103-rings-and-rods) |
@@ -399,6 +400,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anup050/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Anup050/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Anup050/DSA/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1980-find-unique-binary-string](https://github.com/Anup050/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anup050/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anup050/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -743,6 +745,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anup050/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anup050/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Anup050/DSA/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anup050/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Anup050/DSA/tree/master/2103-rings-and-rods) |
@@ -1468,6 +1471,7 @@
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Anup050/DSA/tree/master/1980-find-unique-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
