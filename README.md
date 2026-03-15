@@ -581,6 +581,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Anup050/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1585-the-kth-factor-of-n](https://github.com/Anup050/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
+| [1622-fancy-sequence](https://github.com/Anup050/DSA/tree/master/1622-fancy-sequence) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Anup050/DSA/tree/master/1635-number-of-good-pairs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anup050/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1439,6 +1440,7 @@
 | ------- |
 | [0838-design-linked-list](https://github.com/Anup050/DSA/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1622-fancy-sequence](https://github.com/Anup050/DSA/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/Anup050/DSA/tree/master/2169-simple-bank-system) |
 ## Enumeration
 |  |
@@ -1459,6 +1461,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Anup050/DSA/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Anup050/DSA/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anup050/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Anup050/DSA/tree/master/3721-longest-balanced-subarray-ii) |
