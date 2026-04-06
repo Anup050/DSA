@@ -1,14 +1,12 @@
 class Solution {
 public:
-    bool isPerfectSquare(long long n) {
-        long long root = (long long)sqrt(n);
-        return root * root == n;
-    }
-
     bool judgeSquareSum(int c) {
-        for (long long a = 0; a * a <= c; ++a) {
-            long long b = c - a * a;
-            if (isPerfectSquare(b)) return true;
+        int a = 0, b = sqrt(c);
+        while(a <= b){
+            long long sum = (long long)(a * a) + (long long)(b * b);
+            if(sum == c) return true;
+            else if(sum < c) a++;
+            else b--;
         }
         return false;
     }
