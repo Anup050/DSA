@@ -9,13 +9,19 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-        int slow = square(n);
-        int fast = square(square(n));
+        // int slow = square(n);
+        // int fast = square(square(n));
 
-        while(slow != fast){
-            slow = square(slow);
-            fast = square(square(fast));
+        // while(slow != fast){
+        //     slow = square(slow);
+        //     fast = square(square(fast));
+        // }
+        // return slow == 1;
+        unordered_set<int> s;
+        while(n != 1 && s.find(n) == s.end()){
+            s.insert(n);
+            n = square(n);
         }
-        return slow == 1;
+        return n == 1;
     }
 };
