@@ -278,6 +278,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anup050/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anup050/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anup050/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Anup050/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anup050/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anup050/DSA/tree/master/0217-contains-duplicate) |
@@ -554,6 +555,7 @@
 | [0070-climbing-stairs](https://github.com/Anup050/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anup050/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anup050/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Anup050/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anup050/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
@@ -1409,6 +1411,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anup050/DSA/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Anup050/DSA/tree/master/0866-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Anup050/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
@@ -1473,6 +1476,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anup050/DSA/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/Anup050/DSA/tree/master/0869-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/Anup050/DSA/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
