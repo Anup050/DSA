@@ -91,6 +91,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anup050/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Anup050/DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anup050/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anup050/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anup050/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -564,6 +565,7 @@
 | [0343-integer-break](https://github.com/Anup050/DSA/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Anup050/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Anup050/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Anup050/DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anup050/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Anup050/DSA/tree/master/0507-perfect-number) |
@@ -1195,6 +1197,7 @@
 | [0054-spiral-matrix](https://github.com/Anup050/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Anup050/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Anup050/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Anup050/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Anup050/DSA/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
