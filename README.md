@@ -580,6 +580,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0866-prime-palindrome](https://github.com/Anup050/DSA/tree/master/0866-prime-palindrome) |
 | [0869-reordered-power-of-2](https://github.com/Anup050/DSA/tree/master/0869-reordered-power-of-2) |
+| [0878-nth-magical-number](https://github.com/Anup050/DSA/tree/master/0878-nth-magical-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -971,6 +972,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anup050/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
+| [0878-nth-magical-number](https://github.com/Anup050/DSA/tree/master/0878-nth-magical-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anup050/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anup050/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anup050/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
