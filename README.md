@@ -537,6 +537,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/Anup050/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anup050/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3788-maximum-score-of-a-split](https://github.com/Anup050/DSA/tree/master/3788-maximum-score-of-a-split) |
@@ -821,6 +822,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Anup050/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Anup050/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anup050/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Anup050/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/Anup050/DSA/tree/master/4008-restore-finishing-order) |
 ## Stack
