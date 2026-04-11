@@ -3,7 +3,6 @@ public:
     int minimumDistance(vector<int>& nums) {
         int ans = INT_MAX;
         unordered_map<int,vector<int>>mp;
-        int val = -1;
         for(int i=0; i<nums.size(); i++){
             mp[nums[i]].push_back(i);
         }
