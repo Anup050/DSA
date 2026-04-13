@@ -404,6 +404,7 @@
 | [1817-finding-the-users-active-minutes](https://github.com/Anup050/DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [1833-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Anup050/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anup050/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anup050/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anup050/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
