@@ -510,6 +510,7 @@
 | [3453-separate-squares-i](https://github.com/Anup050/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anup050/DSA/tree/master/3454-separate-squares-ii) |
 | [3467-transform-array-by-parity](https://github.com/Anup050/DSA/tree/master/3467-transform-array-by-parity) |
+| [3488-closest-equal-element-queries](https://github.com/Anup050/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anup050/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anup050/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -812,6 +813,7 @@
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anup050/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anup050/DSA/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anup050/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3488-closest-equal-element-queries](https://github.com/Anup050/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anup050/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anup050/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anup050/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -999,6 +1001,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3453-separate-squares-i](https://github.com/Anup050/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anup050/DSA/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Anup050/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anup050/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anup050/DSA/tree/master/3790-fruits-into-baskets-ii) |
