@@ -170,6 +170,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Anup050/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Anup050/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Anup050/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
