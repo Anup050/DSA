@@ -169,6 +169,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anup050/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anup050/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Anup050/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Anup050/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -1174,6 +1175,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anup050/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anup050/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anup050/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anup050/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anup050/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Anup050/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
