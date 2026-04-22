@@ -459,6 +459,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anup050/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anup050/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anup050/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -805,6 +806,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2402-meeting-rooms-iii](https://github.com/Anup050/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anup050/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Anup050/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -1182,6 +1184,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anup050/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anup050/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anup050/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anup050/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anup050/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Anup050/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
