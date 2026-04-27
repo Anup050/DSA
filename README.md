@@ -584,6 +584,7 @@
 | [0231-power-of-two](https://github.com/Anup050/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anup050/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anup050/DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Anup050/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Anup050/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anup050/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anup050/DSA/tree/master/0343-integer-break) |
@@ -1589,6 +1590,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Anup050/DSA/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Anup050/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
