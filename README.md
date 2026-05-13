@@ -492,6 +492,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anup050/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anup050/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anup050/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Anup050/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -670,6 +671,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/Anup050/DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Anup050/DSA/tree/master/2998-count-symmetric-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anup050/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3115-maximum-prime-difference](https://github.com/Anup050/DSA/tree/master/3115-maximum-prime-difference) |
@@ -1290,6 +1292,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Anup050/DSA/tree/master/2810-faulty-keyboard) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/Anup050/DSA/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -1336,6 +1339,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Anup050/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Anup050/DSA/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Anup050/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Heap (Priority Queue)
