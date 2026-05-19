@@ -70,6 +70,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Anup050/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/Anup050/DSA/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/Anup050/DSA/tree/master/3794-reverse-string-prefix) |
@@ -474,6 +475,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Anup050/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/Anup050/DSA/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -828,6 +830,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Anup050/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/Anup050/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Anup050/DSA/tree/master/2615-sum-of-distances) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anup050/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1036,6 +1039,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Anup050/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anup050/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/Anup050/DSA/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3453-separate-squares-i](https://github.com/Anup050/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anup050/DSA/tree/master/3454-separate-squares-ii) |
