@@ -483,6 +483,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Anup050/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2639-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Anup050/DSA/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2722-prime-in-diagonal](https://github.com/Anup050/DSA/tree/master/2722-prime-in-diagonal) |
@@ -832,6 +833,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anup050/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Anup050/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Anup050/DSA/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anup050/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anup050/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1417,6 +1419,7 @@
 | [2032-two-out-of-three](https://github.com/Anup050/DSA/tree/master/2032-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anup050/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anup050/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anup050/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anup050/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anup050/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
