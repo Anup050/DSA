@@ -413,6 +413,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anup050/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Anup050/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anup050/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anup050/DSA/tree/master/1791-richest-customer-wealth) |
