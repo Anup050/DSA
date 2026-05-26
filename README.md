@@ -102,6 +102,7 @@
 | [0415-add-strings](https://github.com/Anup050/DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anup050/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anup050/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Anup050/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anup050/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Anup050/DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
