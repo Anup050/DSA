@@ -526,6 +526,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Anup050/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Anup050/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anup050/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Anup050/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
@@ -695,6 +696,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anup050/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup050/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anup050/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3360-stone-removal-game](https://github.com/Anup050/DSA/tree/master/3360-stone-removal-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
