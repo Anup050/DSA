@@ -406,6 +406,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anup050/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anup050/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Anup050/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Anup050/DSA/tree/master/1580-shuffle-the-array) |
@@ -641,6 +642,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anup050/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Anup050/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Anup050/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1585-the-kth-factor-of-n](https://github.com/Anup050/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Anup050/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1622-fancy-sequence](https://github.com/Anup050/DSA/tree/master/1622-fancy-sequence) |
@@ -1173,6 +1175,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anup050/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Anup050/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anup050/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anup050/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anup050/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -1478,6 +1481,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anup050/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Anup050/DSA/tree/master/1448-maximum-69-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anup050/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Anup050/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anup050/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anup050/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anup050/DSA/tree/master/1753-maximum-score-from-removing-stones) |
@@ -1645,6 +1649,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Anup050/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/Anup050/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
