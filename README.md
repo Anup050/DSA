@@ -456,6 +456,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Anup050/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anup050/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anup050/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anup050/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2169-simple-bank-system](https://github.com/Anup050/DSA/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anup050/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -1189,6 +1190,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Anup050/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anup050/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/Anup050/DSA/tree/master/2092-find-all-people-with-secret) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anup050/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anup050/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anup050/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1489,6 +1491,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anup050/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anup050/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anup050/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anup050/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anup050/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
