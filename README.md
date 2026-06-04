@@ -724,6 +724,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anup050/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anup050/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1126,6 +1127,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Anup050/DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Anup050/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Sorting
 |  |
@@ -1597,6 +1599,7 @@
 | [3221-find-the-peaks](https://github.com/Anup050/DSA/tree/master/3221-find-the-peaks) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Anup050/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
 |  |
 | ------- |
