@@ -488,6 +488,7 @@
 | [2540-minimum-common-value](https://github.com/Anup050/DSA/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Anup050/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anup050/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Anup050/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anup050/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/Anup050/DSA/tree/master/2615-sum-of-distances) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anup050/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -1554,6 +1555,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2571-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/Anup050/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Anup050/DSA/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/Anup050/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anup050/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
