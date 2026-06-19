@@ -422,6 +422,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Anup050/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Anup050/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anup050/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Anup050/DSA/tree/master/1773-count-items-matching-a-rule) |
@@ -1554,6 +1555,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anup050/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Anup050/DSA/tree/master/1895-largest-magic-square) |
