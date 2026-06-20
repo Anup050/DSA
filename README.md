@@ -1136,6 +1136,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Anup050/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1456,6 +1457,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1610,6 +1612,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Anup050/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Segment Tree
 |  |
 | ------- |
