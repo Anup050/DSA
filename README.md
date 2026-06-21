@@ -431,6 +431,7 @@
 | [1817-finding-the-users-active-minutes](https://github.com/Anup050/DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anup050/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-find-the-highest-altitude](https://github.com/Anup050/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Anup050/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-sum-of-unique-elements](https://github.com/Anup050/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anup050/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anup050/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1192,6 +1193,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anup050/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anup050/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anup050/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/Anup050/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Anup050/DSA/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anup050/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anup050/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1478,6 +1480,7 @@
 | [1122-relative-sort-array](https://github.com/Anup050/DSA/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anup050/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Anup050/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
@@ -1501,6 +1504,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anup050/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anup050/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anup050/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/Anup050/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anup050/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anup050/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anup050/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
