@@ -4,7 +4,6 @@ public:
         sort(begin(cost), end(cost));
         int minC = 0;
         int n = cost.size()-1;
-        if(n == 0) return cost[0];
         while(n >= 0){
             minC += cost[n];
             n--;
