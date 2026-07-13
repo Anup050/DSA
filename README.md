@@ -1618,6 +1618,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Anup050/DSA/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/Anup050/DSA/tree/master/0869-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/Anup050/DSA/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Anup050/DSA/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Anup050/DSA/tree/master/2083-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anup050/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
