@@ -734,6 +734,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/Anup050/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anup050/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anup050/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Anup050/DSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1560,6 +1561,7 @@
 | [3115-maximum-prime-difference](https://github.com/Anup050/DSA/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Anup050/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/Anup050/DSA/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Anup050/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
