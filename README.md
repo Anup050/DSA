@@ -213,6 +213,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Anup050/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Anup050/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Anup050/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anup050/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Anup050/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Anup050/DSA/tree/master/3798-largest-even-number) |
@@ -746,6 +747,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anup050/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anup050/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anup050/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anup050/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anup050/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1610,6 +1612,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Anup050/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anup050/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Anup050/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anup050/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3788-maximum-score-of-a-split](https://github.com/Anup050/DSA/tree/master/3788-maximum-score-of-a-split) |
 ## Union Find
 |  |
