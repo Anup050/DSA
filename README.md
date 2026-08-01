@@ -53,6 +53,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Anup050/DSA/tree/master/0917-reverse-only-letters) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anup050/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -368,6 +369,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Anup050/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Anup050/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anup050/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1195,6 +1197,7 @@
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Anup050/DSA/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/Anup050/DSA/tree/master/1137-height-checker) |
