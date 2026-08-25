@@ -536,6 +536,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anup050/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anup050/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Anup050/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anup050/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anup050/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3115-maximum-prime-difference](https://github.com/Anup050/DSA/tree/master/3115-maximum-prime-difference) |
@@ -1367,6 +1368,7 @@
 | [2810-faulty-keyboard](https://github.com/Anup050/DSA/tree/master/2810-faulty-keyboard) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anup050/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Anup050/DSA/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/Anup050/DSA/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anup050/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
