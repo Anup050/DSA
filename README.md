@@ -52,6 +52,7 @@
 | [0905-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Anup050/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Anup050/DSA/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/Anup050/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anup050/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -361,6 +362,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Anup050/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/Anup050/DSA/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anup050/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1198,6 +1200,7 @@
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Anup050/DSA/tree/master/0869-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Anup050/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anup050/DSA/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Anup050/DSA/tree/master/0973-k-closest-points-to-origin) |
