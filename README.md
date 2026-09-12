@@ -1840,4 +1840,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anup050/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
