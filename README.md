@@ -1774,6 +1774,7 @@
 | [1664-find-users-with-valid-e-mails](https://github.com/Anup050/DSA/tree/master/1664-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/Anup050/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anup050/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Anup050/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/Anup050/DSA/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Anup050/DSA/tree/master/1877-find-followers-count) |
 | [1907-count-salary-categories](https://github.com/Anup050/DSA/tree/master/1907-count-salary-categories) |
