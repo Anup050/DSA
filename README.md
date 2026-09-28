@@ -146,6 +146,7 @@
 | [1544-make-the-string-great](https://github.com/Anup050/DSA/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anup050/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anup050/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anup050/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anup050/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anup050/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anup050/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -948,6 +949,7 @@
 | [1544-make-the-string-great](https://github.com/Anup050/DSA/tree/master/1544-make-the-string-great) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anup050/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anup050/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anup050/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anup050/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Anup050/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anup050/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1861,4 +1863,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anup050/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
