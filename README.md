@@ -659,6 +659,7 @@
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anup050/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
+| [1185-day-of-the-week](https://github.com/Anup050/DSA/tree/master/1185-day-of-the-week) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anup050/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Anup050/DSA/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anup050/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
