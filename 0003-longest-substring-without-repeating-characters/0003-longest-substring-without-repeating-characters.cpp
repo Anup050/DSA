@@ -4,19 +4,18 @@ public:
         int n = s.length();
         if (n == 0) return 0;
         int maxS = 0;
-
-        for (int i = 0; i < n; i++) {
-            string str = "";
-            for (int j = i; j < n; j++) {
-                if (str.find(s[j]) == string::npos) {
-                    str += s[j];
-                } else {
-                    break;
-                }
+        unordered_set<char> st;
+        int i=0,j=0;
+        while(i < n && j < n){
+            if(st.find(s[j]) == st.end()){
+                st.insert(s[j]);
+                j++;
+            }else{
+                st.erase(s[i]);
+                i++;
             }
-            maxS = max(maxS, (int)str.length());
+            maxS = max(maxS, j-i);
         }
-
         return maxS;
     }
 };
