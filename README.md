@@ -89,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/Anup050/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anup050/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anup050/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anup050/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anup050/DSA/tree/master/0049-group-anagrams) |
@@ -1136,6 +1137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anup050/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anup050/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anup050/DSA/tree/master/0053-maximum-subarray) |
@@ -1699,6 +1701,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anup050/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anup050/DSA/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
@@ -1868,6 +1871,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anup050/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anup050/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anup050/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
