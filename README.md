@@ -46,6 +46,7 @@
 | [0658-find-k-closest-elements](https://github.com/Anup050/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Anup050/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Anup050/DSA/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Anup050/DSA/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
@@ -123,6 +124,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Anup050/DSA/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/Anup050/DSA/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Anup050/DSA/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
@@ -840,6 +842,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anup050/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Anup050/DSA/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/Anup050/DSA/tree/master/0763-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anup050/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1565,6 +1568,7 @@
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anup050/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Anup050/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Anup050/DSA/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Anup050/DSA/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
