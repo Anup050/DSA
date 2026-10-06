@@ -10,15 +10,12 @@ public:
         int start = 0;
         int i = 0;
         while(i<s.length()){
-            while(i<=lastX){
-                if(mp[s[i]] > lastX){
-                    lastX = mp[s[i]];
-                }
-                i++;
+            lastX = max(lastX, mp[s[i]]);
+            if(i == lastX){
+                v.push_back(lastX-start+1);
+                start=i+1;
             }
-            v.push_back(lastX-start+1);
-            lastX = mp[s[i]];
-            start=i;
+            i++;
         }
         return v;
     }
