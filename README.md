@@ -339,6 +339,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup050/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anup050/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Anup050/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anup050/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anup050/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anup050/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1161,6 +1162,7 @@
 | [0152-maximum-product-subarray](https://github.com/Anup050/DSA/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Anup050/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Anup050/DSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Anup050/DSA/tree/master/0799-champagne-tower) |
@@ -1212,6 +1214,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup050/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Anup050/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anup050/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anup050/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Anup050/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
@@ -1557,6 +1560,7 @@
 | [0055-jump-game](https://github.com/Anup050/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anup050/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Anup050/DSA/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anup050/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
