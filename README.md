@@ -322,6 +322,7 @@
 | [0169-majority-element](https://github.com/Anup050/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Anup050/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Anup050/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Anup050/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Anup050/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anup050/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anup050/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1163,6 +1164,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup050/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anup050/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anup050/DSA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Anup050/DSA/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/Anup050/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Anup050/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
