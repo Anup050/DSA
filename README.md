@@ -1921,4 +1921,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Anup050/DSA/tree/master/0881-boats-to-save-people) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Anup050/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
