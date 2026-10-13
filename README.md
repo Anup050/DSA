@@ -144,6 +144,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anup050/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anup050/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup050/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/Anup050/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Anup050/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anup050/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anup050/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -683,6 +684,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anup050/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anup050/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anup050/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1360-number-of-days-between-two-dates](https://github.com/Anup050/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/Anup050/DSA/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/Anup050/DSA/tree/master/1399-count-largest-group) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anup050/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
