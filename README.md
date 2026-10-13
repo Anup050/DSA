@@ -622,6 +622,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anup050/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anup050/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Anup050/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anup050/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anup050/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anup050/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1309,6 +1310,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Anup050/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Anup050/DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anup050/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anup050/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anup050/DSA/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Anup050/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anup050/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1614,6 +1616,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anup050/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anup050/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anup050/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Memoization
 |  |
 | ------- |
