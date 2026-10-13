@@ -4,7 +4,9 @@ public:
         for(int i=0; i<nums.size(); i++){
             nums[i] *= nums[i]; 
         }
-        sort(begin(nums),end(nums));
+        //sort(begin(nums),end(nums));
+        //partial sort
+        nth_element(begin(nums), begin(nums)+(nums.size()/2), end(nums));
         int s = nums.size()/2;
         long long st = 0, ed = 0;
         for(int i=0; i<s; i++){
