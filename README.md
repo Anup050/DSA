@@ -125,6 +125,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Anup050/DSA/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Anup050/DSA/tree/master/0763-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Anup050/DSA/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Anup050/DSA/tree/master/0844-backspace-string-compare) |
@@ -370,6 +371,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Anup050/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/Anup050/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
@@ -848,6 +850,7 @@
 | [0692-top-k-frequent-words](https://github.com/Anup050/DSA/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/Anup050/DSA/tree/master/0763-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/Anup050/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anup050/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1107,6 +1110,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anup050/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/Anup050/DSA/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0878-nth-magical-number](https://github.com/Anup050/DSA/tree/master/0878-nth-magical-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anup050/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anup050/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -1177,6 +1181,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/Anup050/DSA/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Anup050/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
@@ -1236,6 +1241,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Anup050/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/Anup050/DSA/tree/master/0761-special-binary-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Anup050/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0807-custom-sort-string](https://github.com/Anup050/DSA/tree/master/0807-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Anup050/DSA/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/Anup050/DSA/tree/master/0881-boats-to-save-people) |
@@ -1761,6 +1767,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anup050/DSA/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Anup050/DSA/tree/master/0692-top-k-frequent-words) |
+| [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anup050/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Brainteaser
 |  |
