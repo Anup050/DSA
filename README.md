@@ -551,6 +551,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anup050/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anup050/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anup050/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anup050/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -920,6 +921,7 @@
 | [2784-check-if-array-is-good](https://github.com/Anup050/DSA/tree/master/2784-check-if-array-is-good) |
 | [2825-minimize-string-length](https://github.com/Anup050/DSA/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anup050/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anup050/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anup050/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anup050/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anup050/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1730,6 +1732,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Anup050/DSA/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anup050/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anup050/DSA/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anup050/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Anup050/DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1937,4 +1940,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Anup050/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anup050/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
