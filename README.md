@@ -307,6 +307,7 @@
 | [0066-plus-one](https://github.com/Anup050/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anup050/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anup050/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Anup050/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anup050/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anup050/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Anup050/DSA/tree/master/0085-maximal-rectangle) |
@@ -1520,6 +1521,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anup050/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Anup050/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Anup050/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anup050/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Anup050/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anup050/DSA/tree/master/0191-number-of-1-bits) |
@@ -1756,6 +1758,7 @@
 | [0022-generate-parentheses](https://github.com/Anup050/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anup050/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anup050/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Anup050/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
