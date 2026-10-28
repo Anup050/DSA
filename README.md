@@ -643,6 +643,7 @@
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anup050/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anup050/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anup050/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4008-restore-finishing-order](https://github.com/Anup050/DSA/tree/master/4008-restore-finishing-order) |
 ## Math
 |  |
@@ -1219,6 +1220,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Anup050/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anup050/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
@@ -1490,6 +1492,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anup050/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Anup050/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anup050/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1565,6 +1568,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anup050/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anup050/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/Anup050/DSA/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anup050/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Anup050/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bucket Sort
 |  |
