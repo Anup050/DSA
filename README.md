@@ -200,6 +200,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Anup050/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Anup050/DSA/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Anup050/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2418-sort-the-people](https://github.com/Anup050/DSA/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anup050/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anup050/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Anup050/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -527,6 +528,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Anup050/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2411-spiral-matrix-iv](https://github.com/Anup050/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2418-sort-the-people](https://github.com/Anup050/DSA/tree/master/2418-sort-the-people) |
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anup050/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anup050/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -923,6 +925,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Anup050/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Anup050/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2402-meeting-rooms-iii](https://github.com/Anup050/DSA/tree/master/2402-meeting-rooms-iii) |
+| [2418-sort-the-people](https://github.com/Anup050/DSA/tree/master/2418-sort-the-people) |
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anup050/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/Anup050/DSA/tree/master/2486-most-frequent-even-element) |
@@ -1317,6 +1320,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Anup050/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup050/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Anup050/DSA/tree/master/2402-meeting-rooms-iii) |
+| [2418-sort-the-people](https://github.com/Anup050/DSA/tree/master/2418-sort-the-people) |
 | [2447-merge-similar-items](https://github.com/Anup050/DSA/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anup050/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
