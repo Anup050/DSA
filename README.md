@@ -593,6 +593,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Anup050/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Anup050/DSA/tree/master/3321-type-of-triangle) |
 | [3355-zero-array-transformation-i](https://github.com/Anup050/DSA/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Anup050/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anup050/DSA/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3379-transformed-array](https://github.com/Anup050/DSA/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anup050/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1369,6 +1370,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anup050/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anup050/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Anup050/DSA/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Anup050/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anup050/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Anup050/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -1719,6 +1721,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anup050/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anup050/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Anup050/DSA/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Anup050/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Anup050/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anup050/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Anup050/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
