@@ -1,20 +1,11 @@
+
 class Solution {
 public:
     bool detectCapitalUse(string word) {
-        if(word.length() == 1) return true;
-        bool cp = false;
-        bool sm = false;
-        bool fL = (isupper(word[0])) ? true : false;
-        for(int i=1; i<word.length(); i++){
-            if(isupper(word[i])) cp = true;
-            else sm = true;
+        int count = 0;
+        for(char ch : word) {
+            if(isupper(ch)) count++;
         }
-        if(fL){
-            if(cp == true && sm == false) return true;
-            else if(cp == false && sm == true) return true;
-        }else{
-            if(!cp) return true;
-        }
-        return false;
+        return count == 0 || count == word.length() || (count == 1 && isupper(word[0]));
     }
 };
