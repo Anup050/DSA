@@ -749,6 +749,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Anup050/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Anup050/DSA/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anup050/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Anup050/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2485-find-the-pivot-integer](https://github.com/Anup050/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Anup050/DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Anup050/DSA/tree/master/2507-number-of-common-factors) |
@@ -1656,6 +1657,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anup050/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anup050/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Anup050/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Anup050/DSA/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
