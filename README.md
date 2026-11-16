@@ -765,6 +765,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/Anup050/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anup050/DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Anup050/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Anup050/DSA/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anup050/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anup050/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Anup050/DSA/tree/master/2998-count-symmetric-integers) |
@@ -1656,6 +1657,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anup050/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anup050/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anup050/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Anup050/DSA/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Anup050/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anup050/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anup050/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
