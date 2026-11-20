@@ -370,6 +370,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anup050/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Anup050/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
+| [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anup050/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Anup050/DSA/tree/master/0561-array-partition) |
@@ -1222,6 +1223,7 @@
 | [0343-integer-break](https://github.com/Anup050/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Anup050/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
@@ -2011,4 +2013,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Anup050/DSA/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
