@@ -356,6 +356,7 @@
 | [0275-h-index-ii](https://github.com/Anup050/DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Anup050/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anup050/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Anup050/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anup050/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup050/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1114,6 +1115,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Anup050/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Anup050/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Anup050/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anup050/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anup050/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anup050/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1220,6 +1222,7 @@
 | [0152-maximum-product-subarray](https://github.com/Anup050/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anup050/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anup050/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Anup050/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Anup050/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -2016,9 +2019,11 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
