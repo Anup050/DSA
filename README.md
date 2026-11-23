@@ -102,6 +102,7 @@
 | [0072-edit-distance](https://github.com/Anup050/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Anup050/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Anup050/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Anup050/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Anup050/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Anup050/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Anup050/DSA/tree/master/0205-isomorphic-strings) |
@@ -1228,6 +1229,7 @@
 | [0120-triangle](https://github.com/Anup050/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup050/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anup050/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anup050/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Anup050/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anup050/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anup050/DSA/tree/master/0213-house-robber-ii) |
@@ -1835,6 +1837,7 @@
 | [0078-subsets](https://github.com/Anup050/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anup050/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anup050/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Anup050/DSA/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Anup050/DSA/tree/master/0494-target-sum) |
