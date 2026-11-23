@@ -439,6 +439,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Anup050/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anup050/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup050/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anup050/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anup050/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -717,6 +718,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anup050/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anup050/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anup050/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/Anup050/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/Anup050/DSA/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/Anup050/DSA/tree/master/1399-count-largest-group) |
@@ -1731,6 +1733,7 @@
 | [1109-corporate-flight-bookings](https://github.com/Anup050/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anup050/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Anup050/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Anup050/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -1770,6 +1773,7 @@
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Anup050/DSA/tree/master/0838-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/Anup050/DSA/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/Anup050/DSA/tree/master/2169-simple-bank-system) |
@@ -1928,6 +1932,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Anup050/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Monotonic Queue
 |  |
