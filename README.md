@@ -373,6 +373,7 @@
 | [0455-assign-cookies](https://github.com/Anup050/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anup050/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Anup050/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Anup050/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Anup050/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup050/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1232,6 +1233,7 @@
 | [0377-combination-sum-iv](https://github.com/Anup050/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Anup050/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Anup050/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Anup050/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Anup050/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anup050/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1831,6 +1833,7 @@
 | [0090-subsets-ii](https://github.com/Anup050/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Anup050/DSA/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Anup050/DSA/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Anup050/DSA/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Anup050/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anup050/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Anup050/DSA/tree/master/1980-find-unique-binary-string) |
@@ -2031,10 +2034,15 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Anup050/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Anup050/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Anup050/DSA/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anup050/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
