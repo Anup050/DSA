@@ -1,14 +1,13 @@
 class Solution {
 public:
-    int fun(vector<int> &nums, vector<int> &dp, int n){
-        if(n==0) return nums[0];
-        if(n==1) return max(nums[0],nums[1]);
+    int solve(vector<int>& nums, int n, vector<int> &dp){
+        if(n == 0) return nums[0];
+        if(n == 1) return max(nums[0], nums[1]);
         if(dp[n] != -1) return dp[n];
-        return dp[n]=max(fun(nums,dp,n-1),nums[n]+fun(nums,dp,n-2));
+        return dp[n] = max(nums[n]+solve(nums,n-2,dp),solve(nums,n-1,dp));
     }
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n, -1);
-        return fun(nums, dp, n-1);
+        vector<int> dp(nums.size(), -1);
+        return solve(nums, nums.size()-1, dp);
     }
 };
