@@ -418,6 +418,7 @@
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anup050/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Anup050/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0932-monotonic-array](https://github.com/Anup050/DSA/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Anup050/DSA/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anup050/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1264,6 +1265,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anup050/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-number-of-matching-subsequences](https://github.com/Anup050/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/Anup050/DSA/tree/master/0799-champagne-tower) |
+| [0931-minimum-falling-path-sum](https://github.com/Anup050/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Anup050/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Anup050/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Anup050/DSA/tree/master/1086-divisor-game) |
@@ -1553,6 +1555,7 @@
 | [0861-flipping-an-image](https://github.com/Anup050/DSA/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Anup050/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Anup050/DSA/tree/master/0898-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Anup050/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Anup050/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anup050/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
